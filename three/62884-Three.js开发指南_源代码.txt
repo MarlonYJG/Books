@@ -1,0 +1,12 @@
+Three.js开发指南：基于WebGL和HTML5在网页上渲染3D图形和动画（原书第3版）
+
+作者:[美]乔斯·德克森（Jos Dirksen ） 著
+译者:周翀 张薇 译
+丛书名:Web开发技术丛书
+出版日期 :2019-06-14
+ISBN:978-7-111-62884-2
+
+
+配书资源下载地址：(请勿直接点击下载，请复制完整路径到迅雷或者浏览器中下载)
+
+http://www.hzcourse.com/oep/image/ueditor/jsp/upload/file/20190812/62884-Three.js开发指南_源代码.zip
